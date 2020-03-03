@@ -24,10 +24,14 @@ Here are the instructions to run the code. We provide the real dataset for demo.
 
 # Instructions for use
 ## Steps to run the codes
+
 BS_grid.m 
-In this case, we calculate the average P concentrations through time. Please make sure that the dataset file ‘Earthchem_vol_P.xlsx’ is placed in the same directory with the code file. 
+Mean_AA_vs_SiO2_ritt.m
+Mean_AA_vs_SiO2_time.m
+
+The reviewers or readers can use the above MATLAB codes according to the below steps. Please make sure that the dataset file ‘Earthchem_vol_P.xlsx’ is placed in the same directory with the code file. 
 1. Run the BS_grid.m file. 
 2. Press the F5 on the keyboard to run the program. The error bar plot will be displayed. The csv file for the calculated results will be generated simultaneously. 
 
 ## Reproduction instructions
-The curve in Fig. 3a in this contribution can be reproduced by running the corresponding MATLAB codes following the above steps. Further embellishment to the figure can be completed in other applications, e.g. Adobe Illustrator, CorelDRAW, etc. 
+The trends in Fig 2 and Fig. 3a in this contribution can be reproduced by running the corresponding MATLAB codes following the above steps. Further embellishment to the figure can be completed in other applications, e.g. Adobe Illustrator, CorelDRAW, etc. 
